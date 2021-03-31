@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Localization\obj\Development\Localization.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Localization\obj\Development\Localization.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Localization\obj\Development\Localization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Localization\obj\Development\Localization.Automation.pdb
