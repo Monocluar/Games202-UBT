@@ -1,0 +1,7 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.xml
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\BuildGraph\obj\Development\BuildGraph.Automation.pdb
