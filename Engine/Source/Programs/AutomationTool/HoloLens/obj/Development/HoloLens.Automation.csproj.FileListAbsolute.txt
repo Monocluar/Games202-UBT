@@ -1,0 +1,7 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\HoloLens\HoloLens.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\HoloLens\HoloLens.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.csproj.CopyComplete
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\HoloLens\obj\Development\HoloLens.Automation.pdb
