@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\XLocLocalization\obj\Development\XLocLocalization.Automation.pdb

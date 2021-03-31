@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\TVOS\obj\Development\TVOS.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\TVOS\obj\Development\TVOS.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\TVOS\obj\Development\TVOS.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\TVOS\obj\Development\TVOS.Automation.pdb
