@@ -1,0 +1,9 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Gauntlet.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Gauntlet.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.Properties.Resources.resources
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.GenerateResource.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.csproj.CopyComplete
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Gauntlet\obj\Development\Gauntlet.Automation.pdb
