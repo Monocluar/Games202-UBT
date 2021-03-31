@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Linux\Linux.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Linux\Linux.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Linux\obj\Development\Linux.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Linux\obj\Development\Linux.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Linux\obj\Development\Linux.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Linux\obj\Development\Linux.Automation.pdb
