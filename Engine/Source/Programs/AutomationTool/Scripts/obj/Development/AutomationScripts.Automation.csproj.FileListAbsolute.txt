@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Scripts\obj\Development\AutomationScripts.Automation.pdb

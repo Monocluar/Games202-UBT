@@ -1,0 +1,5 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Mac\obj\Development\Mac.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Mac\obj\Development\Mac.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\Mac\obj\Development\Mac.Automation.pdb

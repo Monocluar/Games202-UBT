@@ -1,0 +1,6 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.dll
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\OneSkyLocalization\obj\Development\OneSkyLocalization.Automation.pdb
