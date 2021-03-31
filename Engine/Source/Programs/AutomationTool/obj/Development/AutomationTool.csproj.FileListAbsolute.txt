@@ -1,0 +1,8 @@
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationTool.exe.config
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationTool.exe
+E:\EpicGame\UnrealEngine\Engine\Binaries\DotNET\AutomationTool.pdb
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\obj\Development\AutomationTool.csprojAssemblyReference.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\obj\Development\AutomationTool.csproj.CoreCompileInputs.cache
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\obj\Development\AutomationTool.csproj.CopyComplete
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\obj\Development\AutomationTool.exe
+E:\EpicGame\UnrealEngine\Engine\Source\Programs\AutomationTool\obj\Development\AutomationTool.pdb
